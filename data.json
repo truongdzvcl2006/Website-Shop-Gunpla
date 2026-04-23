@@ -1,0 +1,720 @@
+[
+  { 
+    "id": 1, 
+    "cat": "Gundam", 
+    "grade": "SD GUNDAM", 
+    "name": "SDEX RX-78-2 Gundam", 
+    "price": 180000, 
+    "img": "https://bizweb.dktcdn.net/100/384/579/products/10389434p.jpg?v=1734007171187",
+    "thumbnails": [
+      "https://bizweb.dktcdn.net/100/384/579/products/10389434p.jpg?v=1734007171187", 
+      "https://product.hstatic.net/200000326537/product/10389434a2_05e952791bd244948710e0d1f3a13feb_master.jpg", 
+      "https://down-vn.img.susercontent.com/file/586104f7449831d99b5a089da3d72630", 
+      "https://www.gundambienhoa.com/storage/app/uploads/public/68d/3be/cc3/68d3becc32fba242230755.webp"
+    ] 
+  },
+
+  { 
+    "id": 2, 
+    "cat": "Gundam", 
+    "grade": "SD GUNDAM", 
+    "name": "SDW Heroes Knight Strike", 
+    "price": 220000, 
+    "img": "https://product.hstatic.net/1000231532/product/knight_strike_gundam_sdw_heroes_2734b7de75d646aa9413033c925dfac9_grande.jpg",
+    "thumbnails": [
+      "https://product.hstatic.net/1000231532/product/knight_strike_gundam_sdw_heroes_2734b7de75d646aa9413033c925dfac9_grande.jpg", 
+      "https://bizweb.dktcdn.net/thumb/large/100/479/026/products/a72b626acb96f99fb02c216cb0ee11b4-1690086902358.jpg?v=1690087237873", 
+      "https://product.hstatic.net/200000326537/product/10815667a2_0b9cd1fb7f7045df8fe6d92dd8c92152_master.jpg", 
+      "https://bizweb.dktcdn.net/thumb/large/100/479/026/products/6ad3cd68befc9c6e026438a951ae0d75-1690086902358.jpg?v=1690087233903"
+    ] 
+  },
+
+  { 
+    "id": 3, 
+    "cat": "Gundam", 
+    "grade": "SD GUNDAM", 
+    "name": "SDCS Mazinger Z", 
+    "price": 350000, 
+    "img": "https://product.hstatic.net/200000326537/product/sdcs-mazinger_z-boxart_68f72e7d23664b339b656c501219c32b_master.jpg",
+    "thumbnails": [
+      "https://product.hstatic.net/200000326537/product/sdcs-mazinger_z-boxart_68f72e7d23664b339b656c501219c32b_master.jpg", 
+      "https://m.media-amazon.com/images/I/61Las0JzRYL.jpg", 
+      "https://cn.lnwfile.com/_/cn/_raw/34/48/jr.jpg", 
+      "https://img.shoplineapp.com/media/image_clips/5f70e6fb449c1f0017ca0242/original.jpg?1601234683"
+    ] 
+  },
+
+  { 
+    "id": 4, 
+    "cat": "Gundam", 
+    "grade": "HG Gundam", 
+    "name": "HGUC Nu Gundam", 
+    "price": 650000, 
+    "img": "https://product.hstatic.net/200000326537/product/hg086-nu_gundam-boxart_a45968aa7b1a45438ee974fcdbfeb5b0_master.jpg",
+    "thumbnails": [
+      "https://product.hstatic.net/200000326537/product/hg086-nu_gundam-boxart_a45968aa7b1a45438ee974fcdbfeb5b0_master.jpg", 
+      "https://www.gundamplanet.com/cdn/shop/files/hguc-rx-93-nu-gundam-00.jpg?v=1737658887", 
+      "https://file.hstatic.net/1000231532/file/mo_hinh_fa-93hws_nu_gundam_heavy_weapon_system_hg_nhat_ban_420cb0e874f14a6c9f0dbdffe72f316e.jpg", 
+      "https://i0.wp.com/www.gunpla.co.uk/wp-content/uploads/2021/10/p4.jpg?resize=600%2C600&ssl=1"
+    ] 
+  },
+
+  { 
+    "id": 5, 
+    "cat": "Gundam", 
+    "grade": "HG Gundam", 
+    "name": "HG Aerial Rebuild", 
+    "price": 450000, 
+    "img": "https://img.lazcdn.com/g/p/2d2609f22b4be8d1776bd1c600877fbd.jpg_960x960q80.jpg_.webp",
+    "thumbnails": [
+      "https://img.lazcdn.com/g/p/2d2609f22b4be8d1776bd1c600877fbd.jpg_960x960q80.jpg_.webp", 
+      "https://www.hobbyco.com.au/cdn/shop/files/G5065096.jpg?v=1719469729", 
+      "https://bizweb.dktcdn.net/100/524/018/products/05efee01-cae9-4876-91a2-310a68bf3c3d-1719910758608.jpg?v=1723543154963", 
+      "https://bizweb.dktcdn.net/100/524/018/products/bbaecf99-d2b8-4c4e-adc2-2c43bc558ebb-1719910758608.jpg?v=1723543154483"
+    ] 
+  },
+
+  { 
+    "id": 6, 
+    "cat": "Gundam", 
+    "grade": "HG Gundam", 
+    "name": "HGCE Strike Freedom", 
+    "price": 520000, 
+    "img": "https://product.hstatic.net/200000326537/product/10413710p_9e1fde85bed04943bc47092ef1ab9221_master.jpg",
+    "thumbnails": [
+      "https://product.hstatic.net/200000326537/product/10413710p_9e1fde85bed04943bc47092ef1ab9221_master.jpg", 
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lx3l2n0kokijef", 
+      "https://product.hstatic.net/200000326537/product/10413710a5_c9defd16c24042538d12636c24259ed1_master.jpg", 
+      "https://product.hstatic.net/200000326537/product/153_6063_s_ygxdpdcpj9tgo9yxv9fz0qk0pui8_234c9d85d6bf42f7a2e45fb84e8570b7_master.jpg"
+    ] 
+  },
+
+  { 
+    "id": 7, 
+    "cat": "Gundam", 
+    "grade": "RG Gundam", 
+    "name": "RG Hi-Nu Gundam", 
+    "price": 1350000, 
+    "img": "https://cdn.shopify.com/s/files/1/2984/6690/files/B_946122b4-527d-4fab-8ffc-62fbfa03fd61.jpg?v=1693589980",
+    "thumbnails": [
+      "https://cdn.shopify.com/s/files/1/2984/6690/files/B_946122b4-527d-4fab-8ffc-62fbfa03fd61.jpg?v=1693589980", 
+      "https://bizweb.dktcdn.net/thumb/grande/100/479/026/products/369a81498bb932c029789e22d88d22a8-1680086197100.jpg?v=1680174665113", 
+      "https://bizweb.dktcdn.net/thumb/large/100/479/026/products/f6a11217415fbf56d36f65d098991cc1-1680086197100.jpg?v=1680174666360", 
+      "https://bizweb.dktcdn.net/thumb/grande/100/535/699/products/z6649370008756-66eca061bcca8637b92ca454efff6e69.jpg?v=1752923196790"
+    ] 
+  },
+
+  { 
+    "id": 8, 
+    "cat": "Gundam", 
+    "grade": "RG Gundam", 
+    "name": "RG Sazabi", 
+    "price": 1200000, 
+    "img": "https://product.hstatic.net/200000326537/product/gb-rg-msn-04ff_sazabi-boxart_132117dbbd274ca0a7a57a4c7abd7936_master.jpg",
+    "thumbnails": [
+      "https://product.hstatic.net/200000326537/product/gb-rg-msn-04ff_sazabi-boxart_132117dbbd274ca0a7a57a4c7abd7936_master.jpg", 
+      "https://product.hstatic.net/200000326537/product/10538039b_254bc5890a48443da2cdcd3fb187e56b_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/10538039b2_a005b9a9fd324726a646509e5adb1412_master.jpg", 
+      "https://product.hstatic.net/200000326537/product/n2739222001001_004_c063c9d103f34a268fb67f927079d1e8_master.jpg"
+    ] 
+  },
+
+  { 
+    "id": 9, 
+    "cat": "Gundam", 
+    "grade": "RG Gundam", 
+    "name": "RG God Gundam", 
+    "price": 950000, 
+    "img": "https://product.hstatic.net/200000326537/product/10841845p_3556bbb20b4640d1af24c9fcc5693bc2_master.jpg",
+    "thumbnails": [
+      "https://product.hstatic.net/200000326537/product/10841845p_3556bbb20b4640d1af24c9fcc5693bc2_master.jpg", 
+      "https://product.hstatic.net/200000326537/product/10841845a_006653ea791844838a38431a248db2d9_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/10841845a8_c4ef47c28df543bcad39a2f29d2e0fbd_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/10841845a2_0f6c2a98d8304a27beba8b666cbd0ac9_grande.jpg"
+    ] 
+  },
+
+  { 
+    "id": 10, 
+    "cat": "Gundam", 
+    "grade": "MG Gundam", 
+    "name": "MG Barbatos", 
+    "price": 1250000, 
+    "img": "https://aztoyhobby.com/cdn/shop/files/E168E954-F9CC-440E-B0C7-25AAB7F967CD.jpg?v=1774976363",
+    "thumbnails": [
+      "https://aztoyhobby.com/cdn/shop/files/E168E954-F9CC-440E-B0C7-25AAB7F967CD.jpg?v=1774976363", 
+      "https://cdn.hstatic.net/products/200000326537/imgi_18_znclmzfgwjymn2pg_d2c882625d724de28c83ae198f4b0a0c_grande.jpg", 
+      "https://cdn.hstatic.net/products/200000326537/imgi_19_tfeoafumjkxaw0k3_798393bb66d94723ad79044ccb3d58fd_grande.jpg", 
+      "https://cdn.hstatic.net/products/200000326537/imgi_22_3ovjneg2aralhmmd_ed61680ba061438e86a9ea909e397a50_grande.jpg"
+    ] 
+  },
+
+  { 
+    "id": 11, 
+    "cat": "Gundam", 
+    "grade": "MG Gundam", 
+    "name": "MG Eclipse Gundam", 
+    "price": 1450000, 
+    "img": "https://bizweb.dktcdn.net/thumb/1024x1024/100/309/941/products/d025dcd4-0f9b-4889-9881-f25f797fbec2.jpg?v=1675351108570",
+    "thumbnails": [
+      "https://bizweb.dktcdn.net/thumb/1024x1024/100/309/941/products/d025dcd4-0f9b-4889-9881-f25f797fbec2.jpg?v=1675351108570", 
+      "https://product.hstatic.net/200000326537/product/10777864a_9b40d01f5a0f4f3aa82643cf2c97c8eb_master.jpg", 
+      "https://product.hstatic.net/200000326537/product/10777864a9_76835239172a45e2a87180251f8b80b8_master.jpg", 
+      "https://product.hstatic.net/200000326537/product/10777864a4_56ef320997ef4c668409b5b2afad0f43_grande.jpg"
+    ] 
+  },
+
+  { 
+    "id": 12, 
+    "cat": "Gundam", 
+    "grade": "MG Gundam", 
+    "name": "MG Dynames", 
+    "price": 1150000, 
+    "img": "https://bizweb.dktcdn.net/100/442/971/products/ragesword-022-1.jpg?v=1761670526437",
+    "thumbnails": [
+      "https://bizweb.dktcdn.net/100/442/971/products/ragesword-022-1.jpg?v=1761670526437", 
+      "https://product.hstatic.net/200000326537/product/153_3080_s_4jeqyha73sjw3f9kjeknnd8oh67u_e477ca6007dc44b5933ec9d2e0938a35_master.jpg", 
+      "https://product.hstatic.net/200000326537/product/189_3080_s_gar0eledvat9mfv8nun4o0i119wp_18dafa6497ff4fbb8915b96fa9f2aa8a_master.jpg", 
+      "https://product.hstatic.net/200000326537/product/192_3080_s_juy1evx9jyn6chnzfrl0937fro85_9d84bfb462a74b96b98a75503a56b206_master.jpg"
+    ] 
+  },
+
+  { 
+    "id": 13, 
+    "cat": "Gundam", 
+    "grade": "PG Gundam", 
+    "name": "PG Unleashed RX-78-2", 
+    "price": 7500000, 
+    "img": "https://product.hstatic.net/200000326537/product/pg_unleashed_rx-78-2_box_49706601ea1449c0816a03cfd87a8cb2_grande.jpg",
+    "thumbnails": [
+      "https://product.hstatic.net/200000326537/product/pg_unleashed_rx-78-2_box_49706601ea1449c0816a03cfd87a8cb2_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/pg-unleashed-rx-78-2-gundam-1_9ec5b1cf36564035815e3b8f520f2363_master.jpghttps://link-placeholder-1.com", 
+      "https://product.hstatic.net/200000326537/product/pg-unleashed-rx-78-2-gundam-2_217cf780281d424d8aea471334e0f1b3_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/pg-unleashed-rx-78-2-gundam-8_3135f704668d41e0aa7a9ecf7876ff1f_grande.jpg"
+    ] 
+  },
+
+  { 
+    "id": 14, 
+    "cat": "Gundam", 
+    "grade": "PG Gundam", 
+    "name": "PG Unicorn Gundam", 
+    "price": 5500000, 
+    "img": "https://product.hstatic.net/200000326537/product/screenshot2022-05-10at12.47.23am_e56f94c4-b024-4ee5-af3c-3a5cafef59a8_ca612ed1e9b4431b8827352b32ce43a4_master.png",
+    "thumbnails": [
+      "https://product.hstatic.net/200000326537/product/screenshot2022-05-10at12.47.23am_e56f94c4-b024-4ee5-af3c-3a5cafef59a8_ca612ed1e9b4431b8827352b32ce43a4_master.png", 
+      "https://product.hstatic.net/200000326537/product/n2570545001001_002_aa946c80251845f5a364e7742901e0a9_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/n2570545001001_006_c900aeefae7d42899672e0819b9d3bc5_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/n2570545001001_004_0e38e78b88554f0484c0ba0dbf73e061_grande.jpg"
+    ] 
+  },
+
+  { 
+    "id": 15, 
+    "cat": "Gundam", 
+    "grade": "PG Gundam", 
+    "name": "PG Astray Red Frame", 
+    "price": 4800000, 
+    "img": "https://product.hstatic.net/200000326537/product/ban158463_46_678acba27eaa4af094c06bdc6bdccdd9_grande.jpg",
+    "thumbnails": [
+      "https://product.hstatic.net/200000326537/product/ban158463_46_678acba27eaa4af094c06bdc6bdccdd9_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/8af16fac-ae65-463c-bd90-a5d1b15f965d_0b84a3f9b7264d80a3659cf7c382095e_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/035b735f-aa06-4ccd-8b22-e487a7f01bef_65c97cee65ca4684abcecd15f557c02d_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/0501d69b-3de7-4b93-a7c7-b8e61d38a275_54bd91be61954d41a7ee69e139657913_grande.jpg"
+    ] 
+  },
+
+  { 
+    "id": 16, 
+    "cat": "Gundam", 
+    "grade": "MGSD Gundam", 
+    "name": "MGSD Freedom Gundam", 
+    "price": 1150000, 
+    "img": "https://bizweb.dktcdn.net/thumb/1024x1024/100/309/941/products/10081666-8606-4f01-a3c0-333dc9de8ebb.jpg?v=1678856364847",
+    "thumbnails": [
+      "https://bizweb.dktcdn.net/thumb/1024x1024/100/309/941/products/10081666-8606-4f01-a3c0-333dc9de8ebb.jpg?v=1678856364847", 
+      "https://product.hstatic.net/200000326537/product/mgsd-freedom_825f8ca9f14e4a148e60e0be957e6d03_master.jpg", 
+      "https://product.hstatic.net/200000326537/product/mgsd-freedom-2_87e9532c4c4f4b158a4e3bfaf3bd2c90_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/mgsd-freedom-8_646be2aa36d542458e9583d902228c3e_grande.jpg"
+    ] 
+  },
+
+  { 
+    "id": 17, 
+    "cat": "Gundam", 
+    "grade": "MGSD Gundam", 
+    "name": "MGSD Barbatos", 
+    "price": 1150000, 
+    "img": "https://herogame.vn/upload/images/img_13_11_2023/mo-hinh-gundam-mgsd-asw-g-08-gundam-barbatos---bandai---mgsd0001-1_193452_65520a808d7e45.46981908.png",
+    "thumbnails": [
+      "https://herogame.vn/upload/images/img_13_11_2023/mo-hinh-gundam-mgsd-asw-g-08-gundam-barbatos---bandai---mgsd0001-1_193452_65520a808d7e45.46981908.png", 
+      "https://product.hstatic.net/200000326537/product/355323626_633935172091106_8201773584610523780_n_395f5d82ab8f4526ab43b05663f3f3b6_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/355162405_633935495424407_7944486519999701076_n_4503540e55ca4b69aaacfd9f0441de69_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/355312329_633935838757706_5014007945423015127_n_5a1d518f14054eb4a31ee658b8692196_grande.jpg"
+    ] 
+  },
+
+  { 
+    "id": 18, 
+    "cat": "Gundam", 
+    "grade": "MGSD Gundam", 
+    "name": "MGSD Wing Zero EW", 
+    "price": 1200000, 
+    "img": "https://cdn.mohinhcaocap.com/wp-content/uploads/2025/05/30195536/1000221746_12-Small.jpg",
+    "thumbnails": [
+      "https://cdn.mohinhcaocap.com/wp-content/uploads/2025/05/30195536/1000221746_12-Small.jpg", 
+      "https://product.hstatic.net/200000326537/product/447794202_999591845503784_2574689296752649612_n_1c256af0e34b48f4a7ec1b5618efd379_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/11092983b2_7053abd398ef4f188c9a5ca3b933d9bd_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/445460150_999591922170443_8894951401006006417_n_238186ed2bc849f58c05ee50ff190ec0_grande.jpg"
+    ] 
+  },
+
+  { 
+    "id": 19, 
+    "cat": "Gundam", 
+    "grade": "EG Gundam", 
+    "name": "EG RX-78-2 Gundam", 
+    "price": 180000, 
+    "img": "https://herogame.vn/upload/images/img_25_12_2023/mo-hinh-gundam-eg-1-144-rx-78-2-gundam---bandai---gdeg0003-1_507111_65892081e8a029.45576537.jpg",
+    "thumbnails": [
+      "https://herogame.vn/upload/images/img_25_12_2023/mo-hinh-gundam-eg-1-144-rx-78-2-gundam---bandai---gdeg0003-1_507111_65892081e8a029.45576537.jpg", 
+      "https://product.hstatic.net/200000326537/product/10757186a_016a1b096dbf40dea65dbfc197831738_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/10757186a4_aa680cca1e8f42e5a8c4152d5742f215_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/10757186a3_2f711e6ea7884236a0b72626468b9a39_grande.jpg"
+    ] 
+  },
+
+  { 
+    "id": 20, 
+    "cat": "Gundam", 
+    "grade": "EG Gundam", 
+    "name": "EG Strike Gundam", 
+    "price": 180000, 
+    "img": "https://product.hstatic.net/200000326537/product/eg010-strike_gundam-boxart-660x872_c46785ce8de548b790303cfa7fc75ec9_master.jpg",
+    "thumbnails": [
+      "https://product.hstatic.net/200000326537/product/eg010-strike_gundam-boxart-660x872_c46785ce8de548b790303cfa7fc75ec9_master.jpg", 
+      "https://product.hstatic.net/200000326537/product/eg010-strike_gundam-1-660x660_ae303314daf4450eafea0537d9935637_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/eg010-strike_gundam-2-660x660_826cea1c29b649b692df510f1a5334e6_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/eg010-strike_gundam-11-660x660_f0bf0fb00da942cebc1fb9c44206a812_grande.jpg"
+    ] 
+  },
+
+  { 
+    "id": 21, 
+    "cat": "Gundam", 
+    "grade": "EG Gundam", 
+    "name": "EG Nu Gundam", 
+    "price": 280000, 
+    "img": "https://product.hstatic.net/200000326537/product/10850133p_3dd84a529d194998b3468694157657be_master.jpg",
+    "thumbnails": [
+      "https://product.hstatic.net/200000326537/product/10850133p_3dd84a529d194998b3468694157657be_master.jpg", 
+      "https://product.hstatic.net/200000326537/product/10850133b_8a61126bbf0b40d6865f28da82098da1_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/10850133b2_9bbfc0fc1568444f8b1346fc98509fa3_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/10850133b3_9c91a95c787d4999a4b3203d968e9253_grande.jpg"
+    ] 
+  },
+
+  { 
+    "id": 22, 
+    "cat": "Gundam", 
+    "grade": "FM Gundam", 
+    "name": "Full Mechanics Aerial", 
+    "price": 1100000, 
+    "img": "https://gundamshop.vn/wp-content/uploads/2024/02/xvx-016_gundam_aerial_full_mechanics_1-100_3aac29a6cf654356b1237916f914fa04_grande.jpg",
+    "thumbnails": [
+      "https://gundamshop.vn/wp-content/uploads/2024/02/xvx-016_gundam_aerial_full_mechanics_1-100_3aac29a6cf654356b1237916f914fa04_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/bans65090_1_430c4b4d9f984a02855437313490b385_grande.png", 
+      "https://product.hstatic.net/200000326537/product/bans65090_2_f45924b7f8944c33b97ec6348a04eab9_grande.png", 
+      "https://product.hstatic.net/200000326537/product/bans65090_3_f9d4aae297d74986a46946bc2ee6c73c_grande.png"
+    ] 
+  },
+
+  { 
+    "id": 23, 
+    "cat": "Gundam", 
+    "grade": "FM Gundam", 
+    "name": "Full Mechanics Calamity", 
+    "price": 1250000, 
+    "img": "https://gkgundamkit.com/cdn/shop/products/pbandai01.jpg?v=1678533534",
+    "thumbnails": [
+      "https://gkgundamkit.com/cdn/shop/products/pbandai01.jpg?v=1678533534", 
+      "https://product.hstatic.net/200000326537/product/n2570043001001_002_f0d5616809e54450a28dacc661fbe0c8_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/n2570043001001_003_de10f2f739e94f42bdf6f841c6a26186_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/n2570043001001_005_7c7abe7c720948bcba0acba010c4b86e_grande.jpg"
+    ] 
+  },
+
+  { 
+    "id": 24, 
+    "cat": "Gundam", 
+    "grade": "FM Gundam", 
+    "name": "Full Mechanics Raider", 
+    "price": 1250000, 
+    "img": "https://product.hstatic.net/1000231532/product/gat-x370_raider_gundam_full_mechanics_b5f860eab3cb47149298168703c29d5c_master.jpg",
+    "thumbnails": [
+      "https://product.hstatic.net/1000231532/product/gat-x370_raider_gundam_full_mechanics_b5f860eab3cb47149298168703c29d5c_master.jpg", 
+      "https://product.hstatic.net/200000326537/product/10841805a_a9ed93309e78414ba10d7828fe482afa_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/10841805a2_add4b04e87fb4e2ea3b24f071ce688c1_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/10841805a4_9e82c9a69d004c8eabbb1a306d0d0b23_grande.jpg"
+    ] 
+  },
+
+  { 
+    "id": 25, 
+    "cat": "Gundam", 
+    "grade": "MEGA Gundam", 
+    "name": "Mega Size 1/48 RX-78-2", 
+    "price": 2200000, 
+    "img": "https://bizweb.dktcdn.net/100/384/579/products/4543112620279-1-38886-20f8b4514f97485588aa174180b7fc6d-master.jpg?v=1734523567977",
+    "thumbnails": [
+      "https://bizweb.dktcdn.net/100/384/579/products/4543112620279-1-38886-20f8b4514f97485588aa174180b7fc6d-master.jpg?v=1734523567977", 
+      "https://product.hstatic.net/200000326537/product/mega_size_model-rx-78-2-3_e72c498b938a47bf8b4802094d4b1fa4_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/mega_size_model-rx-78-2-2_880e348e5cce48c3af6f8dc35bdda462_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/mega_size_model-rx-78-2-5_b069c32eb58d41d58ed1b3103dc59312_grande.jpg"
+    ] 
+  },
+
+  { 
+    "id": 26, 
+    "cat": "Gundam", 
+    "grade": "MEGA Gundam", 
+    "name": "Mega Size 1/48 Unicorn", 
+    "price": 2800000, 
+    "img": "https://m.media-amazon.com/images/I/71x2o93eukL._AC_UF350,350_QL80_.jpg",
+    "thumbnails": [
+      "https://m.media-amazon.com/images/I/71x2o93eukL._AC_UF350,350_QL80_.jpg", 
+      "https://product.hstatic.net/200000326537/product/mega_size_model-unicorn_destroy3-660x660_5451375efbf841d1b68b28a4493b7b06_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/mega_size_model-unicorn_destroy-4-660x660_18e66821e9ad48d18167d1fce93dec1b_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/mega_size_model-unicorn_destroy-6-660x660_3a2cdd2ca74f4c55a90073996a86357c_grande.jpg"
+    ] 
+  },
+
+  { 
+    "id": 27, 
+    "cat": "Gundam", 
+    "grade": "RE/100 Gundam", 
+    "name": "RE/100 Nightingale", 
+    "price": 2500000, 
+    "img": "https://product.hstatic.net/200000326537/product/11991_e2ab82bdb55e405eaa2d5188e7a93ea2_grande.jpg",
+    "thumbnails": [
+      "https://product.hstatic.net/200000326537/product/11991_e2ab82bdb55e405eaa2d5188e7a93ea2_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/31162_5447a020432844328d469aa6a4085538_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/20140901172434-550632_6b46d49e40434e738cd4a4812b6f938b_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/ren42_5e4c1f164cff46d3a6eb13c70bec6147_grande.jpg"
+    ] 
+  },
+
+  { 
+    "id": 28, 
+    "cat": "Figure", 
+    "grade": "Figure Gundam", 
+    "name": "Gundam Universe RX-78-2", 
+    "price": 650000, 
+    "img": "https://bizweb.dktcdn.net/100/382/833/products/gundam-universe-gu-01-rx-78-2-gundam-box.jpg?v=1585907945867",
+    "thumbnails": [
+      "https://bizweb.dktcdn.net/100/382/833/products/gundam-universe-gu-01-rx-78-2-gundam-box.jpg?v=1585907945867", 
+      "https://file.hstatic.net/1000231532/file/gunpla_shop_ban_rx-78-2_gundam_universe_a6b4d506fcd04271ae11650920ec79d1_grande.jpg", 
+      "https://tamashiiweb.com/images/item/item_0000015362_RCvPG9BN_101.jpg", 
+      "https://www.1999.co.jp/itbig119/11197411a.jpg"
+    ] 
+  },
+
+  { 
+    "id": 29, 
+    "cat": "Figure", 
+    "grade": "Figure Gundam", 
+    "name": "Robot Spirits Wing Zero", 
+    "price": 1850000, 
+    "img": "https://i.ytimg.com/vi/MYFXwU0iztE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA5BH1UaZBewWVOECV1L_NEYpquTA",
+    "thumbnails": [
+      "https://i.ytimg.com/vi/MYFXwU0iztE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA5BH1UaZBewWVOECV1L_NEYpquTA", 
+      "https://www.1999.co.jp/itbig79/10796642a.jpg", 
+      "https://p-bandai.com/files/seller-products/ASP0005208001/6H8tM1xUgHi2fL1h5Qsf.jpg", 
+      "https://www.1999.co.jp/itbig79/10796642a9.jpg"
+    ] 
+  },
+
+  { 
+    "id": 30, 
+    "cat": "Figure", 
+    "grade": "Figure Gundam", 
+    "name": "Metal Build Strike Freedom", 
+    "price": 8500000, 
+    "img": "https://m.media-amazon.com/images/I/61zHE4tqFTL._AC_SL1200_.jpg",
+    "thumbnails": [
+      "https://m.media-amazon.com/images/I/61zHE4tqFTL._AC_SL1200_.jpg", 
+      "https://tamashiiweb.com/images/item/item_0000015752_jZt1roRa_03.jpg", 
+      "https://www.1999.co.jp/itbig33/10334498a6.jpg", 
+      "https://media.entertainmentearth.com/assets/images/75803f8a1a6a4a25af2faf12b0b556adlg.jpg"
+    ] 
+  },
+
+  { 
+    "id": 31, 
+    "cat": "Hobby", 
+    "grade": "30MS", 
+    "name": "30MS SIS-G00 Rishetta", 
+    "price": 650000, 
+    "img": "https://i.ebayimg.com/images/g/hSkAAOSwvt9nUqGq/s-l1200.jpg",
+    "thumbnails": [
+      "https://i.ebayimg.com/images/g/hSkAAOSwvt9nUqGq/s-l1200.jpg", 
+      "https://product.hstatic.net/200000326537/product/10777997a_4ea6aaf5f27b43fcb023f3a052dba1da_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/10777997a2_e55142a39983408cb5052cca5f8adae8_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/10777997k_c66c91a15464475880e41292dbaa1fd5_grande.jpg"
+    ] 
+  },
+
+  { 
+    "id": 32, 
+    "cat": "Hobby", 
+    "grade": "30MS", 
+    "name": "30MS SIS-A00 Tiasha", 
+    "price": 650000, 
+    "img": "https://product.hstatic.net/200000326537/product/10778024p_7d0299117e714007960914c6da6b7f5a_master.jpg",
+    "thumbnails": [
+      "https://product.hstatic.net/200000326537/product/10778024p_7d0299117e714007960914c6da6b7f5a_master.jpg", 
+      "https://product.hstatic.net/200000326537/product/10778024a_04cba786e9dc44deb1846fe95126d6d8_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/10778024a2_8a9d63397c384abd8dac9e918ca85155_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/10778024k_ddc0b07abc674ea1a2438b12387f0e7d_grande.jpg"
+    ] 
+  },
+
+  { 
+    "id": 33, 
+    "cat": "Hobby", 
+    "grade": "30MS", 
+    "name": "30MS Option Parts Set 1", 
+    "price": 180000, 
+    "img": "https://cdn.mohinhcaocap.com/wp-content/uploads/2025/06/24163441/153_4495_s_6hy4hlzmrfmwcemwa2wzl9lejt5t.jpg",
+    "thumbnails": [
+      "https://cdn.mohinhcaocap.com/wp-content/uploads/2025/06/24163441/153_4495_s_6hy4hlzmrfmwcemwa2wzl9lejt5t.jpg", 
+      "https://product.hstatic.net/200000326537/product/30ms-op01-option_parts_set_1_speed_armor_5044c8e0c6514924b224a70ab69efb83_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/10778003b_2c3be7f869d74e018db7ea8945766a62_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/30ms-op01-option_parts_set_1_speed_armor-2_1f50e6ff9be64bbfa10fd9122b11da24_grande.jpg"
+    ] 
+  },
+
+  { 
+    "id": 34, 
+    "cat": "Hobby", 
+    "grade": "MOTOR NUCLEAR", 
+    "name": "MNP-XH01 Bạch Khởi", 
+    "price": 1150000, 
+    "img": "https://cdn.hstatic.net/products/200000272737/frame_37_f4ef0634e7f14a5b9792e46fcdec6433_master.png",
+    "thumbnails": [
+      "https://cdn.hstatic.net/products/200000272737/frame_37_f4ef0634e7f14a5b9792e46fcdec6433_master.png", 
+      "https://product.hstatic.net/1000231532/product/motor_nuclear_mnp-xh01_baiqi_-_bach_khoi_-_legend_of_star_general_2125b8dfcd18405dadf14041c47e191f.jpg", 
+      "https://aeonmall-review-rikkei.cdn.vccloud.vn/public/image/ecommerce/products/WED0mT5TUM9kFlSSBeROXL4LSjVlgconq4JmDPnU.jpg", 
+      "https://file.hstatic.net/1000231532/file/o_choi_lap_rap_giong_gundam_mnp-xh01_baiqi_-_bach_khoi_co_canh_cuc_dep_2a2cbd8aa7704cf3baf8ffd87ec455e0.jpg"
+    ] 
+  },
+
+  { 
+    "id": 35, 
+    "cat": "Hobby", 
+    "grade": "MOTOR NUCLEAR", 
+    "name": "MNP-XH03 AoBing", 
+    "price": 1350000, 
+    "img": "https://img.lazcdn.com/g/p/ed4a48463f4ca65789fe32cb6290f134.jpg_720x720q80.jpg",
+    "thumbnails": [
+      "https://img.lazcdn.com/g/p/ed4a48463f4ca65789fe32cb6290f134.jpg_720x720q80.jpg", 
+      "https://azgundam.com/wp-content/uploads/2023/09/MNP-03-AZURE-DRAGON-AO-BING-AZGUNDAM-3.jpg", 
+      "https://cdn.mohinhcaocap.com/wp-content/uploads/2025/04/11142205/0062G3qcgy1hym7x0f5ghj34tc37k1l0-scaled.jpg", 
+      "https://cdn.mohinhcaocap.com/wp-content/uploads/2025/04/11142148/0062G3qcgy1hym7wr7jcpj33l4350b2a-scaled.jpg"
+    ] 
+  },
+
+  { 
+    "id": 36, 
+    "cat": "Hobby", 
+    "grade": "MOTOR NUCLEAR", 
+    "name": "Mạt Thế Thiết Kỵ - Lữ Bố", 
+    "price": 3200000, 
+    "img": "https://bizweb.dktcdn.net/100/382/833/products/04eafbd287.jpg?v=1652956935747",
+    "thumbnails": [
+      "https://bizweb.dktcdn.net/100/382/833/products/04eafbd287.jpg?v=1652956935747", 
+      "https://bizweb.dktcdn.net/thumb/grande/100/524/018/products/vn-11134207-7r98o-lo2u1fuvqu7u23-1703471818344.jpg?v=1723546140860", 
+      "https://bizweb.dktcdn.net/thumb/grande/100/524/018/products/vn-11134207-7r98o-lo2u1fuvo12yd1-1703471818344.jpg?v=1723546145053", 
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lnsm6nue73ay00"
+    ] 
+  },
+
+  { 
+    "id": 37, 
+    "cat": "Hobby", 
+    "grade": "MOSHOW", 
+    "name": "Moshow Date Masamune", 
+    "price": 3500000, 
+    "img": "https://fuwafuwaland.ca/cdn/shop/files/rn-image_picker_lib_temp_193f9ced-1ae0-44e7-a54a-4fb54c4a9fe8.jpg?v=1753107280",
+    "thumbnails": [
+      "https://fuwafuwaland.ca/cdn/shop/files/rn-image_picker_lib_temp_193f9ced-1ae0-44e7-a54a-4fb54c4a9fe8.jpg?v=1753107280", 
+      "https://bizweb.dktcdn.net/thumb/grande/100/524/018/products/vn-11134207-7qukw-lg6wh52b0cmv5f-1703047857954.jpg?v=1723547380073", 
+      "https://bizweb.dktcdn.net/thumb/grande/100/524/018/products/vn-11134207-7ras8-m1bhjfia4wt8db-1728834191476-jpeg-1732445787717.jpg?v=1732445794153", 
+      "https://bizweb.dktcdn.net/thumb/grande/100/524/018/products/vn-11134207-7ras8-m1bhjfia3i8sc5-1728834191476-1-jpeg-1732445787716.jpg?v=1732445793223"
+    ] 
+  },
+
+  { 
+    "id": 38, 
+    "cat": "Hobby", 
+    "grade": "MOSHOW", 
+    "name": "Moshow Takeda Shingen", 
+    "price": 3800000, 
+    "img": "https://bizweb.dktcdn.net/100/524/018/products/4d017dd9-fae4-454b-ae47-97919b2b75d3-1722401917917.jpg?v=1723542962887",
+    "thumbnails": [
+      "https://bizweb.dktcdn.net/100/524/018/products/4d017dd9-fae4-454b-ae47-97919b2b75d3-1722401917917.jpg?v=1723542962887", 
+      "https://bizweb.dktcdn.net/thumb/grande/100/524/018/products/97400d50-4f5a-4654-8e31-3cea7918576c-1722401917917-79bec6a3-ff8a-4647-81e2-823b5bf86d85.jpg?v=1723542958703", 
+      "https://bizweb.dktcdn.net/thumb/grande/100/524/018/products/4d017dd9-fae4-454b-ae47-97919b2b75d3-1722401917917-3a532ceb-146b-45f5-ae75-b489e7038532.jpg?v=1723542957397", 
+      "https://bizweb.dktcdn.net/100/524/018/products/59705b40-0a4e-4408-9594-7133eed53cc5-1722401917917-ed0ec2ab-0198-4cb9-b3c2-d8d50841e711.jpg?v=1723542962887"
+    ] 
+  },
+
+  { 
+    "id": 39, 
+    "cat": "Hobby", 
+    "grade": "MOSHOW", 
+    "name": "Moshow Lancelot", 
+    "price": 4200000, 
+    "img": "https://bizweb.dktcdn.net/thumb/1024x1024/100/519/969/products/img-7246-jpeg.jpg?v=1744620025660",
+    "thumbnails": [
+      "https://bizweb.dktcdn.net/thumb/1024x1024/100/519/969/products/img-7246-jpeg.jpg?v=1744620025660", 
+      "https://bizweb.dktcdn.net/thumb/grande/100/524/018/products/490607373-1199101838891594-43761172474395831-n-1744727388869.jpg?v=1744886024520", 
+      "https://bizweb.dktcdn.net/thumb/grande/100/524/018/products/491300398-1062010012412738-9117355044681201436-n-1744727388873.jpg?v=1765110201413", 
+      "https://bizweb.dktcdn.net/thumb/grande/100/524/018/products/491406037-1062009989079407-1257989525046248686-n-1744727388876.jpg?v=1765110201413"
+    ] 
+  },
+
+  { 
+    "id": 40, 
+    "cat": "Hobby", 
+    "grade": "SNAA", 
+    "name": "SNAA Blade King", 
+    "price": 650000, 
+    "img": "https://bizweb.dktcdn.net/thumb/grande/100/524/018/products/420587883-851126150355833-1248960963806129548-n-1705659105549.jpg?v=1723545082667",
+    "thumbnails": [
+      "https://bizweb.dktcdn.net/thumb/grande/100/524/018/products/420587883-851126150355833-1248960963806129548-n-1705659105549.jpg?v=1723545082667", 
+      "https://bizweb.dktcdn.net/100/524/018/products/420562422-851126203689161-3334594777546444006-n-1705659087277.jpg?v=1723545077147", 
+      "https://bizweb.dktcdn.net/100/479/026/products/vn-11134207-7r98o-lqn7i73pra36f7-1706282178142.jpg?v=1706299718340", 
+      "https://bizweb.dktcdn.net/thumb/1024x1024/100/442/971/products/download-23-1720767283167.jpg?v=1720767295177"
+    ] 
+  },
+
+  { 
+    "id": 41, 
+    "cat": "Hobby", 
+    "grade": "SNAA", 
+    "name": "SNAA Hunt & Kill", 
+    "price": 550000, 
+    "img": "https://bizweb.dktcdn.net/thumb/grande/100/479/026/products/vn-11134207-7qukw-lggf1wkisyui14-1683369796811.jpg?v=1683369801943",
+    "thumbnails": [
+      "https://bizweb.dktcdn.net/thumb/grande/100/479/026/products/vn-11134207-7qukw-lggf1wkisyui14-1683369796811.jpg?v=1683369801943", 
+      "https://bizweb.dktcdn.net/thumb/grande/100/479/026/products/vn-11134207-7qukw-lggf1wkiq5pm2c-1683369796811.jpg?v=1683369803790", 
+      "https://bizweb.dktcdn.net/100/524/018/products/0098aa6ffa4d823a7edd2ff0c815f5bd-1702704619330.jpg?v=1723547656610", 
+      "https://bizweb.dktcdn.net/thumb/large/100/479/026/products/vn-11134207-7qukw-lggghid4rskq01-1683369796812.jpg?v=1683369814947"
+    ] 
+  },
+
+  { 
+    "id": 42, 
+    "cat": "Hobby", 
+    "grade": "SNAA", 
+    "name": "SNAA Thunder Incise", 
+    "price": 450000, 
+    "img": "https://vcagundam.sg/cdn/shop/files/C_f4257d20-cf1e-4ae7-888c-9a4d7ebbb4d5.jpg?v=1715255238",
+    "thumbnails": [
+      "https://vcagundam.sg/cdn/shop/files/C_f4257d20-cf1e-4ae7-888c-9a4d7ebbb4d5.jpg?v=1715255238", 
+      "https://bizweb.dktcdn.net/thumb/grande/100/479/026/products/vn-11134207-7r98o-lqdabe5heqevdf-1704970288387.jpg?v=1704970631450", 
+      "https://bizweb.dktcdn.net/100/442/971/products/did-068-1-1716102749074.jpg?v=1716103167520", 
+      "https://bizweb.dktcdn.net/thumb/large/100/479/026/products/vn-11134207-7r98o-lqdabe5hdbuf2f-1704970288387.jpg?v=1704970632527"
+    ] 
+  },
+
+  { 
+    "id": 43, 
+    "cat": "Hobby", 
+    "grade": "Model Kit Kotobukiya", 
+    "name": "Frame Arms Girl Gourai", 
+    "price": 1450000, 
+    "img": "https://www.hlj.com/productimages/kby/kbyfg-100_16.jpg",
+    "thumbnails": [
+      "https://www.hlj.com/productimages/kby/kbyfg-100_16.jpg", 
+      "https://product.hstatic.net/200000326537/product/gt001-gigantic_arms_01_powered_guardian_2d3e3c0ba1f840f392578597adc3b632_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/gt001-gigantic_arms_01_powered_guardian-5_388b736bf8b84f52ac84c7c38948eccc_grande.jpg", 
+      "https://product.hstatic.net/200000326537/product/gt001-gigantic_arms_01_powered_guardian-9_fd4f7167b37d4daaaafa5f721885f9f6_grande.jpg"
+    ] 
+  },
+
+  { 
+    "id": 44, 
+    "cat": "Hobby", 
+    "grade": "Model Kit Kotobukiya", 
+    "name": "Megami Device Asra Ninja", 
+    "price": 1250000, 
+    "img": "https://file.hstatic.net/1000231532/file/p715_de_thuong_chat_luong_tot_chi_tiet_dep_mat_tao_dang_da_dang_thu_vi.jpg",
+    "thumbnails": [
+      "https://file.hstatic.net/1000231532/file/p715_de_thuong_chat_luong_tot_chi_tiet_dep_mat_tao_dang_da_dang_thu_vi.jpg", 
+      "https://inwfile.com/s-cj/9bjd3q.jpg", 
+      "https://argamahobby.com/cdn/shop/files/PLAMOD10_ASRANINJAKANAME.png?v=1727837094&width=800", 
+      "https://inwfile.com/s-ct/3b3tbp.jpg"
+    ] 
+  },
+
+  { 
+    "id": 45, 
+    "cat": "Hobby", 
+    "grade": "Model Kit Kotobukiya", 
+    "name": "Zoids HMM Blade Liger", 
+    "price": 1850000, 
+    "img": "https://live.staticflickr.com/65535/53836622835_ec52d8a7c8_o.jpg",
+    "thumbnails": [
+      "https://live.staticflickr.com/65535/53836622835_ec52d8a7c8_o.jpg", 
+      "https://cdn11.bigcommerce.com/s-89ffd/images/stencil/1280x1280/products/170336/717562/4934054073740_c5b7e340d56776234d530cf4dc6570d6__44643.1739940446.jpg?c=2?imbypass=on", 
+      "https://cdn11.bigcommerce.com/s-89ffd/images/stencil/1280x1280/products/170336/717561/4934054073740_bee3dcac711c17f17ff57c486525ab42__63739.1739940445.jpg?c=2?imbypass=on", 
+      "https://pandahobby.ca/cdn/shop/products/RZ-028BladeLigerAB1_7218.jpg?v=1648399678&width=800"
+    ] 
+  },
+
+  { 
+    "id": 46, 
+    "cat": "Tools", 
+    "grade": "Phụ kiện Gundam", 
+    "name": "Kềm GodHand SPN-120", 
+    "price": 1150000, 
+    "img": "https://bizweb.dktcdn.net/thumb/grande/100/479/026/products/vn-11134207-7qukw-lf0rn2oa3gju77-1680240932549.jpg?v=1681741000720",
+    "thumbnails": [
+      "https://bizweb.dktcdn.net/thumb/grande/100/479/026/products/vn-11134207-7qukw-lf0rn2oa3gju77-1680240932549.jpg?v=1681741000720", 
+      "https://bizweb.dktcdn.net/thumb/large/100/479/026/products/vn-11134207-7qukw-lf0q6x7bqqoa80-1680240932549.jpg?v=1681741002893", 
+      "https://wafuu.com/cdn/shop/products/god-hand-gh-spn-120-ultimate-nipper-50-for-plastic-model-818704.png?v=1695255161", 
+      "https://bizweb.dktcdn.net/thumb/grande/100/479/026/products/vn-11134207-7qukw-lf0q6x7bpc3ufb-1680240932549.jpg?v=1681741002107"
+    ] 
+  },
+
+  { 
+    "id": 47, 
+    "cat": "Tools", 
+    "grade": "Phụ kiện Gundam", 
+    "name": "Bút kẻ lằn Gundam Marker", 
+    "price": 50000, 
+    "img": "https://bizweb.dktcdn.net/thumb/grande/100/524/018/products/f1adb9e6-f9af-4941-b750-jpeg-1735028417662.jpg?v=1735028421853",
+    "thumbnails": [
+      "https://bizweb.dktcdn.net/thumb/grande/100/524/018/products/f1adb9e6-f9af-4941-b750-jpeg-1735028417662.jpg?v=1735028421853", 
+      "https://bizweb.dktcdn.net/thumb/grande/100/524/018/products/47e917de-e871-43d1-9709-05abcc22f976-1735016242290.jpg?v=1735016248670", 
+      "https://product.hstatic.net/200000326537/product/43d37477-3029-462f-8a10-497e55c107c3_7a3a7fe6fdb94cbbbde53d215d8bad5c_master.jpg" 
+    ] 
+  },
+
+  { 
+    "id": 48, 
+    "cat": "Tools", 
+    "grade": "Phụ kiện Gundam", 
+    "name": "Action Base 4 Black", 
+    "price": 150000, 
+    "img": "https://vcagundam.sg/cdn/shop/files/A3_dc12ca1f-8742-4788-a455-8f80494b0a18.jpg?v=1700838225",
+    "thumbnails": [
+      "https://vcagundam.sg/cdn/shop/files/A3_dc12ca1f-8742-4788-a455-8f80494b0a18.jpg?v=1700838225", 
+      "https://bizweb.dktcdn.net/thumb/large/100/479/026/products/dc17bacf2a943e2706b6eef4c3a73f84-1679669820371.jpg?v=1679669827243", 
+      "https://product.hstatic.net/200000326537/product/10487913a3_de1f5cf43d6e4667895b2110b4ea5966_master.jpg", 
+      "https://down-vn.img.susercontent.com/file/sg-11134201-23010-gojyvlebvamv0d"
+    ] 
+  }
+]
